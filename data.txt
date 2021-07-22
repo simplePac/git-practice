@@ -1,3 +1,4 @@
 Name: Roberto Lorente
 Age: 27
 Favorite Color: Green
+Favorite Animal: Eagle
